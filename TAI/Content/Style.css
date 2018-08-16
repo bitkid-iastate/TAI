@@ -1,0 +1,29 @@
+﻿/* MINE BELOW*/
+body {
+    font-weight: bold;
+}
+
+#showcase {
+    position: relative;
+    background: url('../img/ThaiTemple.jpg') no-repeat;
+    background-size: 1150px;
+    background-position-y: -100px;
+    /*background-attachment: fixed;*/
+    min-height: 500px;
+
+}
+
+.navbar { 
+    border-bottom: black 3px solid;
+}
+
+#showcaseCard {
+    background-color: rgba(255, 255, 255, 0.7)
+}
+
+.input-validation-error {
+   border: 2px solid red;
+}
+.field-validation-error {
+    color: red;
+}
